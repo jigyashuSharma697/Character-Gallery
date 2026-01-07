@@ -11,7 +11,7 @@ html, body {
 }
 
 #main {
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
     background-color: rgb(141, 162, 234);
     padding: 20px 30px;
