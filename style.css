@@ -6,12 +6,14 @@
 }
 
 html, body {
-    height: 100%;
+    
     width: 100%;
+     background-color: rgb(141, 162, 234);
 }
 
 #main {
     min-height: 100vh;
+    height: auto;
     width: 100%;
     background-color: rgb(141, 162, 234);
     padding: 20px 30px;
